@@ -2,7 +2,7 @@
 
 ## Overview
 
-'For my Sinatra Portfolio Project I create Tiphac, which is a site to collect user's TIPs, Hacks, And Crafts. Users view the whole collection of hacks and can create new 'hacks', they can also edit and delete the hacks that they created. These types of apps are generally referred to as CRUD (Create Read Update Delete apps) or simple Content Management Systems.
+'For my Sinatra Portfolio Project I created Tiphac, which is a site to collect user's TIPs, Hacks, And Crafts. Users view the whole collection of hacks and can create new 'hacks', they can also edit and delete the hacks that they created. These types of apps are generally referred to as CRUD (Create Read Update Delete apps) or simple Content Management Systems.
 '
 ## Trying out the site code
 
